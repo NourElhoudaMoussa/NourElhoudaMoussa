@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NourElhoudaMoussa
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning React js et Laravel 
+- 🌱 I’m currently learning React js and Laravel 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
